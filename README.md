@@ -1,0 +1,2 @@
+# PixelArtStudio
+Exercício fictício.
